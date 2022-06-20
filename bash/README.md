@@ -8,5 +8,6 @@ With this project I want to randomize those names and get one name randomly.
 
 
 - [x] Scrap names from a website 
-- [x] Use `sed`, `awk`, `cut`, ` to clean data
+- [x] Use `sed`, `awk` and `cut` to clean data
+- [x] Use loops to get the number of pages that the website has
 - [ ] Pick one name randomly
