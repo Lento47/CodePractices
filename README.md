@@ -2,4 +2,4 @@
 Practice with Python and Bash
 
 ##TEST
-`if (isAwesome){  return true}
+`if (isAwesome){  return true}`
