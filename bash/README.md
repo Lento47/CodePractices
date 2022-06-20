@@ -1,4 +1,4 @@
-# Animes list 	🙂
+# Anime's list 	🙂
 
 Web scraping with curl `curl` command will get raw data. Throughout the one-liner it gets cleaner until it achieves the Anime's names.
 
