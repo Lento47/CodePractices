@@ -9,3 +9,16 @@ With this project I want to randomize those names and get one name randomly.
 But I have to admit, tasks lists are my favourite:
 – [x] This is a complete item
 – [ ] This is an incomplete item
+# TEST
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
