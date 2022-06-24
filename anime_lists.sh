@@ -10,6 +10,9 @@ do
 
 done > anime_list.txt
 
+
+# picks 1 anime randomly 
+
 cat anime_list | sort --randon-sort | head -n 1
 
 #----------------Tests----------------------------------#
